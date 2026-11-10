@@ -1,6 +1,6 @@
 <div align="center">
 
-# Abanob George Samir
+# Abanoub George Samir
 
 **Full-Stack Developer** · React · Node.js · Laravel · Flutter
 
