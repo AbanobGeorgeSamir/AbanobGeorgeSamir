@@ -1,65 +1,96 @@
-<h1 align="center">Abanoub George</h1>
+<div align="center">
 
-<p align="center">
-  <b>Junior Full-Stack Developer</b><br>
-  React · Node.js · Laravel · MongoDB · MySQL
-</p>
+# 👋 Hi, I'm Abanoub George Samir
 
-<p align="center">
-  <a href="https://abanobgeorgedev.netlify.app">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/abanob-george-samir">LinkedIn</a> ·
-  <a href="mailto:samirabanob848@gmail.com">Email</a>
-</p>
+**Full-Stack Developer** · React · Node.js · Laravel · Flutter
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abanob-george-samir)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbanobGeorgeSamir)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samirabanob848@gmail.com)
+
+</div>
 
 ---
 
-## About
+## 🚀 About Me
 
-I build full-stack web applications end to end: React interfaces, REST APIs in Node.js and Laravel, authentication, role-based admin dashboards and production deployment. I care about clean, readable code and interfaces that are simple to use.
+I'm a passionate **Full-Stack Developer** who loves building clean, scalable, and user-focused web and mobile applications. I work across the full stack — from crafting responsive UIs to designing robust REST APIs and databases.
 
-- Based in South Sinai, Egypt
-- Graduated from WE School for Applied Technology (2023–2026) with **97.85% in Programming**
-- Open to junior software engineering roles, internships and freelance projects
+- 🔭 Currently working on **[El Tur Coptic](https://eltur-coptic.vercel.app)** — a ministry management platform with web + mobile apps
+- 🌱 Deepening expertise in **React**, **Node.js**, **Laravel**, and **Flutter**
+- 💡 Enjoy solving real-world problems with clean architecture and thoughtful design
+- 📫 Reach me at **samirabanob848@gmail.com**
 
-## Tech Stack
+---
 
-| Area | Technologies |
-| --- | --- |
-| **Front-end** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Back-end** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
-| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) |
-| **Also** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+## 🛠️ Tech Stack
 
-## Featured Projects
+**Frontend**
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [**Luxe Store**](https://github.com/AbanobGeorgeSamir/E-Commerce) · [Live demo](https://e-commerce-seven-brown-94.vercel.app) | E-commerce platform with JWT auth, checkout with receipt upload, order tracking and an admin dashboard | React, Express, MongoDB |
-| [**El Tur Coptic**](https://github.com/AbanobGeorgeSamir/eltur-coptic) · [Live site](https://eltur-coptic.vercel.app) | Ministry management platform: web app, REST API and Flutter mobile app with role-based administration, quizzes, attendance and push notifications | React, Express, MongoDB, Flutter |
-| [**E-Commerce: Laravel + React**](https://github.com/AbanobGeorgeSamir/Ecommerce-Laravel-ReactJS) | Decoupled store: Laravel 13 REST API with Sanctum auth and transactional checkout, React 19 storefront and admin panel | Laravel, React, Tailwind CSS |
-| [**Task Manager**](https://github.com/AbanobGeorgeSamir/Task-Manager) | Task app with accounts, categories, priorities, due dates and search | React, Express, MongoDB |
-| [**Laravel Store**](https://github.com/AbanobGeorgeSamir/Ecommerce-Laravel) | Server-rendered store with cart, checkout, orders and an admin area | Laravel, Blade, Tailwind CSS |
-| [**Portfolio**](https://github.com/AbanobGeorgeSamir/Portfolio) · [Live](https://abanobgeorgedev.netlify.app) | Responsive personal portfolio | React |
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-More: [PHP and MySQL store](https://github.com/AbanobGeorgeSamir/Ecommerce-PHP-MySQL) · [Chess](https://github.com/AbanobGeorgeSamir/ChessGame) · [Snake](https://github.com/AbanobGeorgeSamir/SnakeGame)
+**Backend**
 
-## Education and Certifications
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-- **WE School for Applied Technology**, Technical Secondary Education, Applied Technology track (2023–2026)
-- **Graduation result:** 97.85% in Programming
-- **OneRoadmap certificates:**
-  - Frontend Development
-  - React.js Developer
-  - SQL & Database
-  - Python Programming
-  - CSS
-  - Excel
-- **Cisco certificates:**
-  - HTML Essentials
-  - Modern AI
+**Mobile**
 
-## Contact
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-Email [samirabanob848@gmail.com](mailto:samirabanob848@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/abanob-george-samir).
+**Database & Cloud**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [⛪ El Tur Coptic](https://github.com/AbanobGeorgeSamir/eltur-coptic) | Ministry management platform — web, mobile & API | React, Flutter, Node.js, MongoDB |
+| [🛒 E-Commerce (MERN)](https://github.com/AbanobGeorgeSamir/E-Commerce) | Full-stack e-commerce with auth & admin panel | React, Express, MongoDB, Vite |
+| [⚡ E-Commerce (Laravel + React)](https://github.com/AbanobGeorgeSamir/Ecommerce-Laravel-ReactJS) | Decoupled SPA e-commerce | React, Laravel, Tailwind CSS |
+| [✅ Task Manager](https://github.com/AbanobGeorgeSamir/Task-Manager) | Full-stack task app with JWT auth & security | React, Node.js, Express, MongoDB |
+| [🍽️ Restaurant Manager](https://github.com/AbanobGeorgeSamir/Restaurant) | Restaurant admin + MongoDB Atlas + Docker | Laravel, PHP, MongoDB |
+| [♟️ Chess Game](https://github.com/AbanobGeorgeSamir/ChessGame) | OOP chess with move validation & multiplayer | Python |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbanobGeorgeSamir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbanobGeorgeSamir&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*Open to freelance projects, collaborations, and full-time opportunities.*
+
+⭐ **If you find my work useful, consider starring a repo!**
+
+</div>
