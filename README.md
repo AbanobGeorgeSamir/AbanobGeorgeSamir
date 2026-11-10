@@ -74,7 +74,8 @@ Node/Express and Laravel APIs, and the data layer underneath.
 
 - **Programming in C** — University of Michigan via Coursera, 2026 · [Verify](https://coursera.org/verify/0IUPJC1WR4AN)
 - **Frontend Development · React.js · SQL · CSS · Python · Excel** — One Roadmap, 2025 · [Verify](https://oneroadmap.io/skills/frontend/certificate/CERT-98ACB4E7)
-- **HTML Essentials · Getting Started with Cisco Packet Tracer** — Cisco Networking Academy, 2025
+- **HTML Essentials** — Cisco Networking Academy, 2025 · [Certificate](https://drive.google.com/file/d/1-KDwORjumIcRmtZf86QIoYUySJsQ5uHc/view?usp=sharing)
+- **Getting Started with Cisco Packet Tracer** — Cisco Networking Academy, 2025 · [Certificate](https://drive.google.com/file/d/1Rd5a33hZYykdlnSCWDbGhc7URYV6gLYz/view?usp=sharing)
 
 ---
 
