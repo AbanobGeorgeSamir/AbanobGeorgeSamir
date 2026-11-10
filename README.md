@@ -6,6 +6,7 @@
 
 [![Live Ministry](https://img.shields.io/badge/Live_App-El_Tur_Coptic-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://eltur-coptic.vercel.app)
 [![Live Store](https://img.shields.io/badge/Live_Store-Luxe_Store-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://e-commerce-frontend-abanob-server.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://devabanobgeorge.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abanob-george-samir)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbanobGeorgeSamir)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samirabanob848@gmail.com)
@@ -23,7 +24,7 @@
 I am a results-oriented **Full-Stack & Mobile Developer** passionate about engineering scalable, resilient, and user-focused web and mobile applications. My expertise spans building modern decoupled single-page applications with React and Tailwind CSS, designing high-throughput REST APIs with Node.js/Express and Laravel, and shipping multi-platform mobile solutions with Flutter.
 
 - 🔭 **Flagship Project:** **[El Tur Coptic](https://eltur-coptic.vercel.app)** — A multi-platform ministry management ecosystem (React Web + Flutter Mobile + Express/MongoDB REST API).
-- 💻 **Core Competencies:** React 18, Vite, Node.js, Express, PHP, Laravel, Flutter, Dart, MongoDB Atlas, and MySQL.
+- 💻 **Core Competencies:** React, Vite, Node.js, Express, PHP, Laravel, Flutter, Dart, MongoDB Atlas, and MySQL.
 - 🛡️ **Engineering Standards:** Clean Architecture, RESTful API Design, JWT & Role-Based Access Control (RBAC), and Docker containerization.
 - 💡 **Philosophy:** Building software with clean architecture, strict data validation, and intuitive user experiences.
 - 📫 **Reach me at:** [samirabanob848@gmail.com](mailto:samirabanob848@gmail.com) · [LinkedIn](https://www.linkedin.com/in/abanob-george-samir)
@@ -36,7 +37,7 @@ I am a results-oriented **Full-Stack & Mobile Developer** passionate about engin
   <tr>
     <td width="22%"><strong>Frontend</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
       <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -97,7 +98,17 @@ I am a results-oriented **Full-Stack & Mobile Developer** passionate about engin
 | **⚡ E-Commerce (Laravel + React)** | Decoupled SPA e-commerce platform combining a modern React 18 + Tailwind CSS frontend with a Laravel REST API. | `React` `Laravel` `Tailwind` `PHP` | [💻 Code](https://github.com/AbanobGeorgeSamir/Ecommerce-Laravel-ReactJS) |
 | **🍽️ Restaurant Manager** | Full-stack restaurant management platform built with Laravel, MongoDB Atlas integration, and Docker containerization. | `Laravel` `PHP` `MongoDB` `Docker` | [💻 Code](https://github.com/AbanobGeorgeSamir/Restaurant) |
 | **♟️ Chess Game** | Object-oriented chess engine in Python featuring legal move validation, check/checkmate detection, and turn-based multiplayer. | `Python` `OOP` `Game Dev` | [💻 Code](https://github.com/AbanobGeorgeSamir/ChessGame) |
-| **💼 Personal Portfolio** | Responsive personal developer portfolio showcasing technical skillsets, case studies, and interactive contact workflows. | `React` `Vite` `Tailwind` | [💻 Code](https://github.com/AbanobGeorgeSamir/Portfolio) |
+| **💼 Personal Portfolio** | Responsive personal developer portfolio showcasing technical skillsets, case studies, and interactive contact workflows. | `React` `Vite` `Tailwind` | [🌐 Live Site](https://devabanobgeorge.vercel.app) · [💻 Code](https://github.com/AbanobGeorgeSamir/Portfolio) |
+
+### 📂 More Projects
+
+| Project | Description | Stack |
+|:---|:---|:---|
+| **🛍️ E-Commerce (Laravel)** | Monolithic Laravel storefront with product catalog, cart, checkout, and an admin panel. | `Laravel` `Blade` `MySQL` |
+| **🛒 E-Commerce (PHP & MySQL)** | Classic PHP and MySQL shop with authentication, cart, and an admin dashboard. | `PHP` `MySQL` `JavaScript` |
+| **📐 FlexBox Layout** | Responsive CSS Flexbox showcase built with semantic HTML5 and modern CSS3. | `HTML5` `CSS3` |
+| **🥗 Meals** | Responsive restaurant menu landing page in vanilla HTML, CSS, and JavaScript. | `HTML5` `CSS3` `JavaScript` |
+| **🐍 Snake Game** | Classic arcade Snake built with Python and Pygame. | `Python` `Pygame` |
 
 ---
 
