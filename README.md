@@ -49,9 +49,16 @@ More: [PHP and MySQL store](https://github.com/AbanobGeorgeSamir/Ecommerce-PHP-M
 
 - **WE School for Applied Technology**, Technical Secondary Education, Applied Technology track (2023–2026)
 - **Graduation result:** 97.85% in Programming
-- **OneRoadmap:** Frontend Development; React.js Developer; SQL & Database; Python Programming; CSS; Excel
-- **Cisco:** HTML Essentials; Modern AI
-- [View the certificate bundle (PDF)](./ilovepdf_merged.pdf)
+- **OneRoadmap certificates:**
+  - Frontend Development
+  - React.js Developer
+  - SQL & Database
+  - Python Programming
+  - CSS
+  - Excel
+- **Cisco certificates:**
+  - HTML Essentials
+  - Modern AI
 
 ## Contact
 
