@@ -98,7 +98,7 @@ I am a results-oriented **Full-Stack & Mobile Developer** passionate about engin
 | **⚡ E-Commerce (Laravel + React)** | Decoupled SPA e-commerce platform combining a modern React 18 + Tailwind CSS frontend with a Laravel REST API. | `React` `Laravel` `Tailwind` `PHP` | [💻 Code](https://github.com/AbanobGeorgeSamir/Ecommerce-Laravel-ReactJS) |
 | **🍽️ Restaurant Manager** | Full-stack restaurant management platform built with Laravel, MongoDB Atlas integration, and Docker containerization. | `Laravel` `PHP` `MongoDB` `Docker` | [💻 Code](https://github.com/AbanobGeorgeSamir/Restaurant) |
 | **♟️ Chess Game** | Object-oriented chess engine in Python featuring legal move validation, check/checkmate detection, and turn-based multiplayer. | `Python` `OOP` `Game Dev` | [💻 Code](https://github.com/AbanobGeorgeSamir/ChessGame) |
-| **💼 Personal Portfolio** | Responsive personal developer portfolio showcasing technical skillsets, case studies, and interactive contact workflows. | `React` `Vite` `Tailwind` | [🌐 Live Site](https://devabanobgeorge.vercel.app) · [💻 Code](https://github.com/AbanobGeorgeSamir/Portfolio) |
+| **💼 Personal Portfolio** | Responsive personal developer portfolio showcasing technical skillsets, case studies, and interactive contact workflows. | `React` `Vite` `CSS3` | [🌐 Live Site](https://devabanobgeorge.vercel.app) · [💻 Code](https://github.com/AbanobGeorgeSamir/Portfolio) |
 
 ### 📂 More Projects
 
