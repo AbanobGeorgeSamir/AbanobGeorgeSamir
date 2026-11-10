@@ -4,7 +4,8 @@
 
 ### Full-Stack & Mobile Developer · React · Node.js · Laravel · Flutter
 
-[![Portfolio](https://img.shields.io/badge/Live_Project-eltur--coptic.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://eltur-coptic.vercel.app)
+[![Live Ministry](https://img.shields.io/badge/Live_App-El_Tur_Coptic-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://eltur-coptic.vercel.app)
+[![Live Store](https://img.shields.io/badge/Live_Store-Luxe_Store-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://e-commerce-frontend-abanob-server.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abanob-george-samir)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbanobGeorgeSamir)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samirabanob848@gmail.com)
@@ -91,6 +92,7 @@ I am a results-oriented **Full-Stack & Mobile Developer** passionate about engin
 | Project | Description | Stack | Links |
 |:---|:---|:---|:---:|
 | **⛪ El Tur Coptic** | Multi-platform ministry management ecosystem with a React web app, Flutter mobile client, and Express/MongoDB REST API. | `React` `Flutter` `Node.js` `MongoDB` | [🌐 Live Site](https://eltur-coptic.vercel.app) · [💻 Code](https://github.com/AbanobGeorgeSamir/eltur-coptic) |
+| **🛒 Luxe Store** | Full-stack MERN e-commerce application with React 19, Tailwind CSS v4, Express 5, and MongoDB Atlas. | `React` `Node.js` `Express` `MongoDB` | [🌐 Live Store](https://e-commerce-frontend-abanob-server.vercel.app) · [💻 Code](https://github.com/AbanobGeorgeSamir/E-Commerce) |
 | **✅ Task Manager** | Production-ready task management application with secure JWT authentication, rate limiting, and HTTP-only cookies. | `React` `Vite` `Node.js` `MongoDB` | [💻 Code](https://github.com/AbanobGeorgeSamir/Task-Manager) |
 | **⚡ E-Commerce (Laravel + React)** | Decoupled SPA e-commerce platform combining a modern React 18 + Tailwind CSS frontend with a Laravel REST API. | `React` `Laravel` `Tailwind` `PHP` | [💻 Code](https://github.com/AbanobGeorgeSamir/Ecommerce-Laravel-ReactJS) |
 | **🍽️ Restaurant Manager** | Full-stack restaurant management platform built with Laravel, MongoDB Atlas integration, and Docker containerization. | `Laravel` `PHP` `MongoDB` `Docker` | [💻 Code](https://github.com/AbanobGeorgeSamir/Restaurant) |
