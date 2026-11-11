@@ -6,6 +6,75 @@
 
 I build full-stack web and mobile products end to end: React interfaces, secure Node/Express and Laravel APIs, and the data layer underneath.
 
+[Portfolio](https://devabanobgeorge.vercel.app) · [LinkedIn](https://www.linkedin.com/in/abanob-george-samir) · [Email](mailto:devabanoubgeorge@gmail.com)
+
+</div>
+
+---
+
+## About
+
+- Independent full-stack developer (2025 to present), building and deploying web and mobile applications across **React**, **Node.js / Express**, **PHP / Laravel** and **Flutter**.
+- Built a shared REST API with **70+ endpoints and 14 data models** serving a React web app and a Flutter mobile app.
+- Comfortable with JWT and Sanctum authentication, role-based access control, transactional checkout logic, API testing and GitHub Actions CI.
+- Computer Science student at King Salman International University (2026 to 2030, expected). Programming graduate of WE School for Applied Technology with **97.85%**.
+- Based in South Sinai, Egypt. Open to remote work and relocation.
+
+## Tech Stack
+
+| Area | Tools |
+| :-- | :-- |
+| **Frontend** | React · Redux Toolkit · Vite · JavaScript · Tailwind CSS · Bootstrap · HTML5 · CSS3 |
+| **Backend** | Node.js · Express · PHP · Laravel · JWT · REST APIs |
+| **Mobile** | Flutter · Dart |
+| **Data** | MongoDB · MySQL · Firebase |
+| **Tooling** | Git · GitHub Actions · Docker · Postman · Vercel · Python |
+
+## Selected Work
+
+| Project | What it is | Links |
+| :-- | :-- | :-- |
+| **Luxe Store** | MERN commerce platform with a 20-endpoint API, HttpOnly-cookie JWT auth, scrypt hashing, rate limiting, atomic stock updates and admin dashboard. | [Live](https://e-commerce-frontend-abanob-server.vercel.app) · [API](https://ecommerce-server-api-abanob.vercel.app/api/health) · [Code](https://github.com/AbanobGeorgeSamir/E-Commerce) |
+| **El Tur Coptic** | Ministry platform with React web and Flutter mobile clients on one 70+ endpoint API, RBAC across six study groups, quizzes, attendance, tasks and push notifications. | [Live](https://eltur-coptic.vercel.app) · [API](https://eltur-coptic-api-server.vercel.app/api/health) · [Code](https://github.com/AbanobGeorgeSamir/eltur-coptic) |
+| **Task Manager** | Per-user task app with Redux Toolkit, JWT auth, bcrypt, Helmet, rate limiting and CI for tests, lint and build. | [Code](https://github.com/AbanobGeorgeSamir/Task-Manager) |
+| **Laravel + React Commerce** | Laravel 13 API with Sanctum and row-locked checkout, plus a React 19 SPA and admin panel. | [Code](https://github.com/AbanobGeorgeSamir/Ecommerce-Laravel-ReactJS) |
+| **Restaurant Manager** | Laravel meal and category administration app backed by MongoDB and containerized with Docker. | [Code](https://github.com/AbanobGeorgeSamir/Restaurant) |
+| **Portfolio** | Editorial React portfolio with custom motion, light/dark themes and no UI kit. | [Live](https://devabanobgeorge.vercel.app) · [Code](https://github.com/AbanobGeorgeSamir/Portfolio) |
+
+## Experience
+
+**Independent Full-Stack Developer** · Self-directed projects · South Sinai, Egypt · 2025 to present
+
+Design, build, test and deploy web and mobile applications independently, from database design and REST APIs to frontend, automated testing, CI and cloud deployment.
+
+## Education
+
+- **B.Sc. in Computer Science**, King Salman International University, 2026 to 2030 (expected)
+- **Technical Secondary Education, Applied Technology (Programming)**, WE School for Applied Technology, 2023 to 2026 · Graduation score **97.85%**
+
+## Certifications
+
+- **Programming in C**, University of Michigan via Coursera, 2026 · [Verify](https://coursera.org/verify/0IUPJC1WR4AN)
+- **Frontend Development, React.js, SQL, CSS, Python and Excel**, One Roadmap, 2025
+- **HTML Essentials** and **Getting Started with Cisco Packet Tracer**, Cisco Networking Academy, 2025
+- **Introduction to Modern AI**, Cisco Networking Academy
+
+---
+
+<div align="center">
+
+**Open to junior full-stack roles, remote work and relocation.**
+
+[Portfolio](https://devabanobgeorge.vercel.app) · [LinkedIn](https://www.linkedin.com/in/abanob-george-samir) · [Email](mailto:devabanoubgeorge@gmail.com)
+
+</div><div align="center">
+
+# Abanoub George Samir
+
+**Junior Full-Stack Developer** · React · Node.js · Laravel · Flutter
+
+I build full-stack web and mobile products end to end: React interfaces, secure Node/Express and Laravel APIs, and the data layer underneath.
+
 [Portfolio](https://devabanobgeorge.vercel.app) ·
 [LinkedIn](https://www.linkedin.com/in/abanob-george-samir) ·
 [Email](mailto:devabanoubgeorge@gmail.com)
