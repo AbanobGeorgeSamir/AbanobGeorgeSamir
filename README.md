@@ -6,7 +6,7 @@
 
 I build full-stack web and mobile products end to end: React interfaces, secure Node/Express and Laravel APIs, and the data layer underneath.
 
-[Portfolio](https://devabanobgeorge.vercel.app) · [LinkedIn](https://www.linkedin.com/in/abanob-george-samir) · [Email](mailto:devabanoubgeorge@gmail.com)
+[Portfolio](https://devabanoubgeorge.vercel.app) · [LinkedIn](https://www.linkedin.com/in/abanob-george-samir) · [Email](mailto:devabanoubgeorge@gmail.com)
 
 </div>
 
@@ -39,7 +39,7 @@ I build full-stack web and mobile products end to end: React interfaces, secure 
 | **Task Manager** | Per-user task app with Redux Toolkit, JWT auth, bcrypt, Helmet, rate limiting and CI for tests, lint and build. | [Code](https://github.com/AbanobGeorgeSamir/Task-Manager) |
 | **Laravel + React Commerce** | Laravel 13 API with Sanctum and row-locked checkout, plus a React 19 SPA and admin panel. | [Code](https://github.com/AbanobGeorgeSamir/Ecommerce-Laravel-ReactJS) |
 | **Restaurant Manager** | Laravel meal and category administration app backed by MongoDB and containerized with Docker. | [Code](https://github.com/AbanobGeorgeSamir/Restaurant) |
-| **Portfolio** | Editorial React portfolio with custom motion, light/dark themes and no UI kit. | [Live](https://devabanobgeorge.vercel.app) · [Code](https://github.com/AbanobGeorgeSamir/Portfolio) |
+| **Portfolio** | Editorial React portfolio with custom motion, light/dark themes and no UI kit. | [Live](https://devabanoubgeorge.vercel.app) · [Code](https://github.com/AbanobGeorgeSamir/Portfolio) |
 
 ## Experience
 
@@ -65,7 +65,7 @@ Design, build, test and deploy web and mobile applications independently, from d
 
 **Open to junior full-stack roles, remote work and relocation.**
 
-[Portfolio](https://devabanobgeorge.vercel.app) · [LinkedIn](https://www.linkedin.com/in/abanob-george-samir) · [Email](mailto:devabanoubgeorge@gmail.com)
+[Portfolio](https://devabanoubgeorge.vercel.app) · [LinkedIn](https://www.linkedin.com/in/abanob-george-samir) · [Email](mailto:devabanoubgeorge@gmail.com)
 
 </div><div align="center">
 
@@ -75,7 +75,7 @@ Design, build, test and deploy web and mobile applications independently, from d
 
 I build full-stack web and mobile products end to end: React interfaces, secure Node/Express and Laravel APIs, and the data layer underneath.
 
-[Portfolio](https://devabanobgeorge.vercel.app) ·
+[Portfolio](https://devabanoubgeorge.vercel.app) ·
 [LinkedIn](https://www.linkedin.com/in/abanob-george-samir) ·
 [Email](mailto:devabanoubgeorge@gmail.com)
 
@@ -114,7 +114,7 @@ I build full-stack web and mobile products end to end: React interfaces, secure 
 | **Task Manager** | Per-user task app with Redux Toolkit state, JWT auth, bcrypt hashing, Helmet headers, rate limiting and CI running tests, lint and build. | `React` `Express` `MongoDB` | [Code](https://github.com/AbanobGeorgeSamir/Task-Manager) |
 | **E-Commerce: Laravel + React** | Laravel 13 API with Sanctum authentication and a row-locked checkout transaction, plus a React 19 SPA and admin panel. | `Laravel` `React 19` `Tailwind` | [Code](https://github.com/AbanobGeorgeSamir/Ecommerce-Laravel-ReactJS) |
 | **Restaurant Manager** | Laravel app for meal and category administration on MongoDB Atlas, containerized with Docker. | `Laravel` `MongoDB` `Docker` | [Code](https://github.com/AbanobGeorgeSamir/Restaurant) |
-| **Portfolio** | Hand-built editorial portfolio with custom motion, light and dark themes, and no UI kit. | `React` `Vite` `CSS` | [Live](https://devabanobgeorge.vercel.app) · [Code](https://github.com/AbanobGeorgeSamir/Portfolio) |
+| **Portfolio** | Hand-built editorial portfolio with custom motion, light and dark themes, and no UI kit. | `React` `Vite` `CSS` | [Live](https://devabanoubgeorge.vercel.app) · [Code](https://github.com/AbanobGeorgeSamir/Portfolio) |
 
 <details>
 <summary><strong>More projects</strong></summary>
@@ -156,7 +156,7 @@ Design, build, test and deploy web and mobile applications independently, from d
 
 **Open to full-stack roles, remote work and relocation.**
 
-[Portfolio](https://devabanobgeorge.vercel.app) ·
+[Portfolio](https://devabanoubgeorge.vercel.app) ·
 [LinkedIn](https://www.linkedin.com/in/abanob-george-samir) ·
 [Email](mailto:devabanoubgeorge@gmail.com)
 
