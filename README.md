@@ -158,6 +158,6 @@ Design, build, test and deploy web and mobile applications independently, from d
 
 [Portfolio](https://devabanobgeorge.vercel.app) ·
 [LinkedIn](https://www.linkedin.com/in/abanob-george-samir) ·
-[Email](mailto:devabanoubgeorge@gmail.com)]
+[Email](mailto:devabanoubgeorge@gmail.com)
 
 </div>
